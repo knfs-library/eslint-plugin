@@ -14,13 +14,13 @@ This npm package provides a set of custom ESLint rules to enforce code style and
 Install the package via npm:
 
 ```bash
-npm install @knfs-jsc/eslint-plugin
+npm install --save-dev @knfs-jsc/eslint-plugin
 ```
 
 Or via yarn:
 
 ```bash
-yarn add @knfs-jsc/eslint-plugin
+yarn add --dev @knfs-jsc/eslint-plugin
 ```
 
 ## Usage
