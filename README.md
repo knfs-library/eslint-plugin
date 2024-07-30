@@ -1,11 +1,7 @@
-Here's a README template based on your format, tailored for your ESLint plugin project:
-
----
-
 <p align="center">
   <br>
-	<a href="https://github.com/knfs-jsc/eslint-plugin/actions"alt="github">
-	<img src="https://github.com/knfs-jsc/eslint-plugin/actions/workflows/unit-test.yml/badge.svg" alt="Github Actions" />
+	<a href="https://github.com/knfs-library/eslint-plugin/actions"alt="github">
+	<img src="https://github.com/knfs-library/eslint-plugin/actions/workflows/unit-test.yml/badge.svg" alt="Github Actions" />
 	</a>
 </p>
 
