@@ -1,0 +1,41 @@
+{
+  "name": "@knfs-tech/eslint-plugin",
+  "version": "1.0.0",
+  "description": "Eslint plugin",
+  "main": "lib/cjs/index.js",
+  "module": "lib/esm/index.mjs",
+  "exports": {
+    ".": "./lib/esm/index.mjs",
+    "./cjs": "./lib/cjs/index.js"
+  },
+  "scripts": {
+    "test": "jest --runInBand --force-exit --detectOpenHandles"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knfs-library/eslint-plugin.git"
+  },
+  "keywords": [
+    "lint",
+    "eslint",
+    "eslint-plugin",
+    "bamimi"
+  ],
+  "author": "Kent Phung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knfs-library/eslint-plugin/issues"
+  },
+  "homepage": "https://github.com/knfs-library/eslint-plugin#readme",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "eslint-utils": "^3.0.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "eslint": "^9.8.0"
+  }
+}
