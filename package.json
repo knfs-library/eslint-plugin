@@ -1,6 +1,6 @@
 {
   "name": "@knfs-tech/eslint-plugin",
-  "version": "1.0.0",
+  "version": "1.9.9",
   "description": "Eslint plugin",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.mjs",
